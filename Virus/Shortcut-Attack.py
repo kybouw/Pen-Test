@@ -1,3 +1,12 @@
+#-------------------------------------------------------------------------------
+# Name:        Pen-Test
+# Purpose:     Familiarity with security and exploits
+#
+# Author:      Vasanth
+#
+# Created:     02/01/2015
+# Copyright:   (c) Vasanth 2015
+#-------------------------------------------------------------------------------
 import os,time,platform
 from subprocess import check_output,call
 
