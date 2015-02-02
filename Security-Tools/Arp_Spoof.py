@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------------------
+# Name:        Arp_Spoof
+# Purpose:     Learn how Arp Poisoning/Spoofing works
+#
+# Author:      Vasanth Sadhasivan
+#
+# Created:     01/02/2015
+#-------------------------------------------------------------------------------
 import arp, time, subprocess, sys, socket # uses advantage of Python's arp
 import thread
 SPOOFED_IP=''
