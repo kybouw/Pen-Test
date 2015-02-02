@@ -6,7 +6,7 @@
 #
 # Created:     01/02/2015
 #-------------------------------------------------------------------------------
-import arp, time, subprocess, sys, socket # uses advantage of Python's arp
+import arp, time, subprocess, sys, socket # uses advantage of Python's Arp Module
 import thread
 SPOOFED_IP=''
 TARGET_IP=''
